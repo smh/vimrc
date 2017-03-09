@@ -1,0 +1,12 @@
+{
+  "ecmascript": 6,
+  "loadEagerly": [
+  ],
+  "dontLoad": [
+  ],
+  "libs": [
+    "browser"
+  ],
+  "plugins": {
+  }
+}
