@@ -1,0 +1,5 @@
+*
+!/.config
+!/.config/nvim
+!/.config/vim
+!/.config/vim/init.vim
