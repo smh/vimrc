@@ -422,3 +422,6 @@ endif
 " Use DiffOrig to view diff after recovery --- {{{
   command DiffOrig vert new | set buftype=nofile | read ++edit # | 0d_ | diffthis | wincmd p | diffthis
 "}}}
+
+" fish seems to be slow to load, default to bash
+set shell=/bin/bash
